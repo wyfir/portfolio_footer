@@ -1,6 +1,6 @@
 # Responsive Minimalistic Modern Portfolio Footer
 
-Responsive Minimalistic Modern Portfolio Footer is a sleek and modern footer designed for personal portfolios. It includes social media icons, a contact section, and a project invitation message. The footer is built using HTML, CSS, and JavaScript.
+Responsive Minimalistic Modern Portfolio Footer is a sleek and modern footer designed for personal portfolios. It includes social media icons, a contact section, and a project invitation message. The footer is built using HTML and CSS.
 
 ## Features
 
