@@ -19,10 +19,12 @@ Responsive Minimalistic Modern Portfolio Footer is a sleek and modern footer des
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/wyfir/portfolio_footer.git
+   git clone https://github.com/wyfir/portfolio_footer.git
 
    ```
 2. **Navigate to the project directory:**
    ```bash
+   cd portfolio_footer
    cd portfolio_footer
    ```
 
@@ -32,6 +34,7 @@ Include the styles and script files in your project. Customize the CSS variables
 
 ## License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 
 # Contributing
